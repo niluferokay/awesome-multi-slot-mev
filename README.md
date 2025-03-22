@@ -63,6 +63,10 @@ A curated list of resources to understand multi-slot MEV problem and possible so
   - [MEV Capture and Decentralization in Execution Tickets](http://arxiv.org/abs/2408.11255) Aug 2024
   - [Who Wins Ethereum Block Building Auctions and Why?](https://arxiv.org/pdf/2407.13931) Jul 2024
   - [Strategic Bidding Wars in On-chain Auctions](https://arxiv.org/pdf/2312.14510) Mar 2024
+  - [Loss-Versus-Fair: Efficiency of Dutch Auctions on Blockchains](https://arxiv.org/abs/2406.00113) May 2024
+  - [am-amm: An auction-managed automated market maker](https://arxiv.org/abs/2403.03367) Mar 2024
+  - [Optimal dynamic fees for blockchain resources](https://link.springer.com/chapter/10.1007/978-3-031-78676-1_15) Mar 2024
+  - [Automated market making and arbitrage profits in the presence of fees](https://link.springer.com/chapter/10.1007/978-3-031-78676-1_9) Mar 2024
   - [The Future of MEV](https://arxiv.org/pdf/2404.04262) Mar 2024
 - Attacks & Manipulation:
   - [Time is Money: Strategic Timing Games](http://arxiv.org/abs/2305.09032) May 2023
